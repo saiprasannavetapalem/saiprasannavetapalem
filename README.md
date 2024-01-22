@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiprasannavetapalem&label=Profile%20views&color=0e75b6&style=flat" alt="saiprasannavetapalem" /> </p>
 
-- 🌱 I’m currently learning **Front-end technologies, DSA.**
+- 🌱 I’m currently learning **iOS development, DSA.**
 
 - 💬 Ask me about **core java,spring boot**
 
